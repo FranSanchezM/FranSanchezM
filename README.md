@@ -12,15 +12,17 @@
 
 <picture> <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" /> </picture>
 
-Estudiante en la Técnicatura Superior en Desarrollo de Software. Estoy adquieriendo experiencia en desarrollo web trabajando para colidevs.  
+Estudiante en la Técnicatura Superior en Programacion. Estoy adquieriendo experiencia en desarrollo web trabajando para colidevs.  
 * *Interesado en formarme en Big Data a futuro.*
 - 🌱 Actualmente aprendiendo...
   - TypeScript
+  - Java
   - JavaScript
   - React js
   - Next js
+  - Angular
 - 👯 Me encanta trabajar en equipo!
-- También... 🏃🏻‍♂️ Hago ejercicio frecuentemente, ⚽Juego futbol y padel🥎, 🎵 escucho musica todo el día y 🎸estoy aprendiendo guitarra.
+- También... 🏃🏻‍♂️ Hago ejercicio frecuentemente, Me encantan los deportes, leer y escuchar musica.
 - 📫 Contactame vía mail: <a href="joafransanmer@gmail.com">joafransanmer@gmail.com</a>
 
 <h2> Skills </h2>
@@ -28,7 +30,6 @@ Estudiante en la Técnicatura Superior en Desarrollo de Software. Estoy adquieri
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
 </span>
 
 <h4> Web </h4>
@@ -48,10 +49,10 @@ Estudiante en la Técnicatura Superior en Desarrollo de Software. Estoy adquieri
 </span>
 
 <h2>Encontrame también por acá</h2>
-<a href="https://www.linkedin.com/in/federico-ronaldo-di-napoli-225234188/">
+<a href="www.linkedin.com/in/francisco-sánchez-mercau-767001204">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/federicodinapoli01/?hl=es-la">
+<a href="https://www.instagram.com/fraan.sanchez_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a><!--
 **FranSanchezM/FranSanchezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
