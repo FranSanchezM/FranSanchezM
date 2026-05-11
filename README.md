@@ -60,21 +60,6 @@ Desarrollador de Software **graduado de la UTN**.Actualmente me desempeño como 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/FranSanchezM">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranSanchezM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranSanchezM&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FranSanchezM" alt="GitHub contribution chart" width="100%"/>
-</p>
-
----
-
 ## 📫 Conectemos
 <p>
   <a href="https://www.linkedin.com/in/francisco-s%C3%A1nchez-mercau-767001204">
